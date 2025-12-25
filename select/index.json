@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スティールユー",
+  "base_artist": "Omoi",
+  "createdAt": "2025-12-25T07:57:11.270377Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スティールユー",
+      "artist": "Omoi",
+      "has_synced": false,
+      "path": "select/pl_01_スティールユー_Omoi.txt"
+    }
+  ]
+}
